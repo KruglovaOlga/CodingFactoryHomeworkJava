@@ -63,7 +63,7 @@ public class Menu5Games {
     }
 
     /**
-     * prints choises.
+     * prints choices.
      */
     public static void printMenu() {
         System.out.println("Επιλέξτε ένα από τα παρακάτω: ");
